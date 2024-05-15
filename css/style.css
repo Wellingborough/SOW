@@ -37,10 +37,13 @@ html {
 /*
  * Wellingborough Particulars
  */
+
+/* Blocky button (for Key Stages) */
+
 .blocky {
   display: inline-block;
   width: 25%;
-  height: 25%;
+  height: 200px;
   border: none;
   background-color: #651B32;
   padding: 14px 28px;
