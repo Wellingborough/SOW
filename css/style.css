@@ -51,13 +51,13 @@ html {
   cursor: pointer;
   text-align: center;
   color: #FFFFFF;
+  font-size: 64px;
   border-radius: 12px;
-  transition-duration: 0.4s;
+  transition-duration: 0.8s;
 }  
 
 .blocky:hover {
-  background-color: #FFFFFF;
-  color: #651B32;
+  background-color: #001A2C;
 }
 
 /*
