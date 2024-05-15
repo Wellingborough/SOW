@@ -40,14 +40,22 @@ html {
 .blocky {
   display: inline-block;
   width: 25%;
+  height: 25%;
   border: none;
   background-color: #651B32;
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
   text-align: center;
-  text-color: #FFFFFF;
+  color: #FFFFFF;
+  border-radius: 12px;
+  transition-duration: 0.4s;
 }  
+
+.blocky:hover {
+  background-color: #FFFFFF;
+  color: #651B32;
+}
 
 /*
  * A better looking default horizontal rule
